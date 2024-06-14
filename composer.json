@@ -1,10 +1,10 @@
 {
-    "name": "kornrunner/secp256k1",
+    "name": "byphp/secp256k1",
     "description": "Pure PHP secp256k1",
     "keywords": ["secp256k1", "elliptic", "curve", "ecc"],
     "type": "library",
     "require": {
-        "php": ">=8.1",
+        "php": ">=8.0",
         "paragonie/ecc": "^2"
     },
     "require-dev": {
